@@ -1,0 +1,2 @@
+hi everyone have a good good day
+{hi=1, a=1, everyone=1, have=1, good=2, day=1}
